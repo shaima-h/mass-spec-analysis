@@ -5,4 +5,4 @@ Matches raw data from mass spectrometry analysis to database of mods within a to
 **Go to file:** MassSpecAnalysis-java8.jar  
 Click download.
 
-### Link to how-to guide: [Google Doc](https://docs.google.com/document/d/1gRdIppJMYgWSJYUG47GmbJoDrrusvWwLpAJ15gCqdUg/edit?usp=sharing)
+### Link to how-to guide: [Google Doc](https://docs.google.com/document/d/1gRdIppJMYgWSJYUG47GmbJoDrrusvWwLpAJ15gCqdUg/edit?usp=sharing) (ModMatching-HowToGuide.pdf)
